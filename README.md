@@ -13,10 +13,10 @@ Computer with MATLAB software
 
 ## Program: 
 num=[1]
-#den=[1 15 50 0]
-#sys=tf(num,den)
-#rlocus(sys)
-#[k poles]=rlocfind(sys)
+den=[1 15 50 0]
+sys=tf(num,den)
+rlocus(sys)
+[k poles]=rlocfind(sys)
 
 ## Output:
 <img width="699" height="626" alt="image" src="https://github.com/user-attachments/assets/d83123ef-0d26-4999-8b1e-9b107ca02711" />
