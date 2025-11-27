@@ -15,11 +15,6 @@ Computer with MATLAB software
 ![IMG-20251127-WA0048](https://github.com/user-attachments/assets/3da2f169-ed88-4be1-8c2c-891d59878a95)
 ![IMG-20251127-WA0050](https://github.com/user-attachments/assets/6842d77e-55fd-4355-ba7f-ab06cc2d7044)
 ![IMG-20251127-WA0051](https://github.com/user-attachments/assets/a0cf3075-e211-4c93-91c5-4522ae05914c)
-
-
-
-```
-
 ## Program: 
 num=[1]
 den=[1 15 50 0]
