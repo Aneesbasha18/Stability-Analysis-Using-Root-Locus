@@ -16,11 +16,11 @@ Computer with MATLAB software
 ![IMG-20251127-WA0050](https://github.com/user-attachments/assets/6842d77e-55fd-4355-ba7f-ab06cc2d7044)
 ![IMG-20251127-WA0051](https://github.com/user-attachments/assets/a0cf3075-e211-4c93-91c5-4522ae05914c)
 ## Program: 
-num=[1]
-den=[1 15 50 0]
-sys=tf(num,den)
-rlocus(sys)
-[k poles]=rlocfind(sys)
+num=[1] <br>
+den=[1 15 50 0] <br>
+sys=tf(num,den) <br>
+rlocus(sys)<br>
+[k poles]=rlocfind(sys)<br>
 
 ## Output:
 <img width="699" height="626" alt="image" src="https://github.com/user-attachments/assets/d83123ef-0d26-4999-8b1e-9b107ca02711" />
