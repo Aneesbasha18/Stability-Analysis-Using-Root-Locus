@@ -10,6 +10,10 @@ Computer with MATLAB software
 	Save and Execute the program.
 	Click on the crossing point of the root locus to find the value of K and poles at the crossing point.
 	From the value of K, analyse the stability.
+## theory
+![IMG-20251127-WA0051](https://github.com/user-attachments/assets/52fe8354-d9bb-42cf-a8e8-b18a982ca929)
+
+```
 
 ## Program: 
 num=[1]
